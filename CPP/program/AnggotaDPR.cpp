@@ -15,6 +15,7 @@ class AnggotaDPR {
         string nama_partai;
 
     public:
+        // constructor
         AnggotaDPR(){
             this->id = 0;
             this->nama = "";
@@ -29,6 +30,7 @@ class AnggotaDPR {
             this->nama_partai = nama_partai;
         }
 
+        // getter and setter
         string get_nama(){
             return this->nama;
         }
@@ -61,6 +63,7 @@ class AnggotaDPR {
             this->id = id;
         }
 
+        // destructor
         ~AnggotaDPR(){
         }
 };
