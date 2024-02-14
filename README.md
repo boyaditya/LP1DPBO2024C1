@@ -23,3 +23,5 @@ Didalam class Tabel memiliki 2 Atribut, yaitu :
 
 ## Alur Program
 User melakukan run program, kemudian disediakan fitur-fitur untuk menambah, mengubah, menghapus, menampilkan data untuk bahasa C++, Python, dan Java. Data-data anggota DPR yang sudah diinput oleh user diinstansiasi sebagai objek dari kelas AnggotaDPR. Agar bisa menyimpan objek yang banyak, objek-objek dari kelas AnggotaDPR disimpan di dalam list. Jika dilakukan pengubahan atau penghapusan, maka dicari dulu ID nya di dalam list, jika ada maka lakukan proses tersebut, jika tidak ada maka sudah ada error handling yang menampilkan pesan ke layar. 
+
+## Dokumentasi
